@@ -27,4 +27,4 @@ RUN service postgresql start && \
     service postgresql stop
 
 # Definir o CMD para iniciar o PostgreSQL
-CMD service postgresql start && jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root
+CMD service postgresql start && tail -f /dev/null
