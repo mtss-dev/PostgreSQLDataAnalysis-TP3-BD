@@ -1,11 +1,30 @@
-# Defina qual distro do linux vc quer usar
-FROM <linux>
+# Utilizaremos a imagem do ubuntu
+FROM ubuntu:latest
 
-# Instale as dependencias do SISTEMA OPERACIONAL
-# Exemplo de como seria no ubuntu: RUN apt update && apt install -y python3 python3-pip libpq-dev
+# Definir a variável de ambiente DEBIAN_FRONTEND para evitar interações interativas
+ENV DEBIAN_FRONTEND=noninteractive
+ENV TZ=UTC
 
+# Instalação do python3, python3-pip, libpq-dev, wget e lsb-release
+RUN apt update && apt install -y python3 python3-pip libpq-dev wget lsb-release
+
+# Instalação do postgresql diretamente do site oficial
+RUN sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-pgdg main" > /etc/apt/sources.list.d/pgdg.list' && \
+    wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | apt-key add - && \
+    apt update && \
+    apt install -y postgresql
+
+# Definir o diretório de trabalho
 WORKDIR /app
 COPY . /app
 
-# Sua imagem deve ter o python 3.8+ instalado e o pip
+# Instalação das dependências do projeto
 RUN pip install -r requirements.txt
+
+# Criação do usuário postgres e definição da senha
+RUN service postgresql start && \
+    su - postgres -c "psql -c \"ALTER USER postgres WITH PASSWORD 'postgres';\"" && \
+    service postgresql stop
+
+# Definir o CMD para iniciar o PostgreSQL
+CMD service postgresql start && tail -f /dev/null
