@@ -14,17 +14,18 @@ RUN sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-
     apt update && \
     apt install -y postgresql
 
+# Criação do usuário postgres e definição da senha, e criação do banco de dados "tpch"
+RUN service postgresql start && \
+    su - postgres -c "psql -c \"ALTER USER postgres WITH PASSWORD 'postgres';\"" && \
+    su - postgres -c "createdb tpch" && \
+    service postgresql stop
+
 # Definir o diretório de trabalho
 WORKDIR /app
 COPY . /app
 
 # Instalação das dependências do projeto
 RUN pip install -r requirements.txt
-
-# Criação do usuário postgres e definição da senha
-RUN service postgresql start && \
-    su - postgres -c "psql -c \"ALTER USER postgres WITH PASSWORD 'postgres';\"" && \
-    service postgresql stop
 
 # Definir o CMD para iniciar o PostgreSQL
 CMD service postgresql start && tail -f /dev/null
