@@ -14,7 +14,7 @@ from tpch4pgsql import postgresqldb as pgdb, load, query, prepare as prep, resul
 DEFAULT_HOST = "localhost"
 DEFAULT_PORT = 5432
 DEFAULT_USERNAME = "postgres"
-DEFAULT_PASSWORD = "test123"
+DEFAULT_PASSWORD = "postgres"
 DEFAULT_DBNAME = "tpch"
 DEFAULT_DATA_DIR = os.path.join(".", "data")
 DEFAULT_QUERY_ROOT = os.path.join(".", "query_root")
