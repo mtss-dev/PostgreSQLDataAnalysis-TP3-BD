@@ -19,6 +19,7 @@ RUN service postgresql start && \
     su - postgres -c "psql -c \"ALTER USER postgres WITH PASSWORD 'postgres';\"" && \
     su - postgres -c "createdb tpch" && \
     su - postgres -c "createdb series" && \
+    su - postgres -c "createdb movie_catalog" && \
     service postgresql stop
 
 # Definir o diretório de trabalho
