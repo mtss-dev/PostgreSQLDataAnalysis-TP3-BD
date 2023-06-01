@@ -29,7 +29,7 @@ docker run -d --shm-size=1g --name tp3 -p 5433:5432 -p 8888:8888 -v $(pwd)/noteb
 
 Iniciar o jupyter notebook dentro do container
 ```bash
-docker exec tp3 jupyter notebook --notebook-dir=/app/notebooks/ --allow-root --ip
+docker exec tp3 jupyter notebook --notebook-dir=/app/notebooks/ --allow-root --ip 0.0.0.0 --no-browser
 ```
 
 Entrar no postgresql dentro do container
