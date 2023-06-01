@@ -18,6 +18,7 @@ RUN sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt $(lsb_release -cs)-
 RUN service postgresql start && \
     su - postgres -c "psql -c \"ALTER USER postgres WITH PASSWORD 'postgres';\"" && \
     su - postgres -c "createdb tpch" && \
+    su - postgres -c "createdb series" && \
     service postgresql stop
 
 # Definir o diretório de trabalho
