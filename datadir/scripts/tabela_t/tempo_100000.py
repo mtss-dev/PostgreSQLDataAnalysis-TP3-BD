@@ -35,3 +35,4 @@ print("Tempo gasto para recriar o índice: {:.4f} segundos".format(recriar_indic
 
 # Fechar cursor e conexão
 cursor.close()
+conn.close()
