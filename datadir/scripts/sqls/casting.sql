@@ -1,4 +1,4 @@
-drop table casting;
+drop table if exists casting;
 
 commit;
 

@@ -1,4 +1,4 @@
-drop table movie;
+drop table if exists movie;
 
 create table movie
 (

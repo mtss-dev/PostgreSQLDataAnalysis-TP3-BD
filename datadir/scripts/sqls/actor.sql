@@ -1,4 +1,4 @@
-drop table actor;
+drop table if exists actor;
 
 commit;
 
