@@ -14,7 +14,7 @@ def cria_tabela():
     DROP TABLE IF EXISTS t;
     CREATE TABLE t (k serial PRIMARY KEY, v integer);
     INSERT INTO t (v)
-    SELECT trunc(random() * 10) FROM generate_series(1, 100000);
+    SELECT trunc(random() * 10) FROM generate_series(1, 1000000);
     """
     with conn.cursor() as cursor:
         cursor.execute(create_table_query)
@@ -34,6 +34,7 @@ def indice_decrescente():
     print("Índice criado com sucesso!\n")
 
     cursor.close()
+
 
 
 def checa_bloco():
