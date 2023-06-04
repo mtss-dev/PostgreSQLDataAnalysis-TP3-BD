@@ -17,7 +17,6 @@ def establish_connection():
             password=DEFAULT_PASSWORD,
             database=DEFAULT_DBNAME
         )
-        print("Conexão estabelecida com sucesso!\n")
         return conn
     except psycopg2.Error as e:
         print("Erro ao conectar ao PostgreSQL:", e)

@@ -30,7 +30,7 @@ end_time = time.time()
 recriar_indice_time = end_time - start_time
 
 # Imprimir resultados
-print("Tempo gasto para realizar a consulta: {:.4f} segundos".format(consulta_time))
+print("\nTempo gasto para realizar a consulta: {:.4f} segundos".format(consulta_time))
 print("Tempo gasto para recriar o índice: {:.4f} segundos".format(recriar_indice_time))
 
 # Fechar cursor e conexão

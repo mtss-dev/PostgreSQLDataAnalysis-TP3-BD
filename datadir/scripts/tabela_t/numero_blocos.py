@@ -22,7 +22,7 @@ for row in result:
         # Extrair o número de blocos usados
         blocks_used = int(row[0].split("=")[1].split()[0])
         # Imprimir o número de blocos usados
-        print("Número de blocos usados:", blocks_used)
+        print("\nNúmero de blocos usados:", blocks_used)
         break
 
 # Fechar cursor e conexão

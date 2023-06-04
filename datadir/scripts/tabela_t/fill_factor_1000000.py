@@ -13,7 +13,7 @@ SELECT trunc(random() * 10) FROM generate_series(1, 1000000);
 with connection.cursor() as cursor:
     cursor.execute(create_table_query)
 connection.commit()
-print("Tabela 't' criada e populada com sucesso!\n")
+print("\nTabela 't' criada e populada com sucesso!\n")
 
 # Criar índices na tabela "t" com diferentes valores de fillfactor
 fillfactors = [60, 80, 90, 100]

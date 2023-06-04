@@ -16,7 +16,7 @@ cursor.execute("SELECT relname, relpages, reltuples FROM pg_class WHERE relname=
 result = cursor.fetchone()
 
 # Imprimir o resultado
-print("Tabela: ", result[0])
+print("\nTabela: ", result[0])
 print("Número de páginas: ", result[1])
 print("Número de tuplas: ", result[2])
 

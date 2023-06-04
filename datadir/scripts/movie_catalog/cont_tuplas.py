@@ -15,8 +15,7 @@ def execute_query(c,query,table):
         result = cur.fetchone()
 
         # Imprimir o resultado
-        print("Total de tuplas na tabela " + table +":")
-        print(result[0])  # A coluna de contagem estará no índice 0
+        print("Total de tuplas na tabela " + table +": " + str(result[0]))
 
         # Fechar o cursor
         cur.close()

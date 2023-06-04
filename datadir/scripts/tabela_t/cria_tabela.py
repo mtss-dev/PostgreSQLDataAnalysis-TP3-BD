@@ -15,7 +15,7 @@ with conn.cursor() as cursor:
     cursor.execute(create_table_query)
 conn.commit()
 
-print("Tabela populada com sucesso!")
+print("\nTabela populada com sucesso!")
 
 # Executar a consulta SQL para obter os valores das 10 primeiras tuplas ordenadas por "k"
 select_query = """

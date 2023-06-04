@@ -22,7 +22,7 @@ def recriar_tabela():
 
     # Fechar cursor
     cursor.close()
-    print("Tabela recriada com sucesso!")
+    print("\nTabela recriada com sucesso!")
 
 
 def consultar_tabela():
