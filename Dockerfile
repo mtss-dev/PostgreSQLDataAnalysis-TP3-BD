@@ -20,6 +20,7 @@ RUN service postgresql start && \
     su - postgres -c "createdb tpch" && \
     su - postgres -c "createdb series" && \
     su - postgres -c "createdb movie_catalog" && \
+    su - postgres -c "createdb test_files" && \
     service postgresql stop
 
 # Definir o diretório de trabalho
