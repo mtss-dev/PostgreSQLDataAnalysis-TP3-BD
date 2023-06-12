@@ -1,0 +1,235 @@
+versao a ou b?a
+numero de agentes [1,2,4,6,8,10]10
+[<Thread(Thread-370 (worker), initial)>, <Thread(Thread-371 (worker), initial)>, <Thread(Thread-372 (worker), initial)>, <Thread(Thread-373 (worker), initial)>, <Thread(Thread-374 (worker), initial)>, <Thread(Thread-375 (worker), initial)>, <Thread(Thread-376 (worker), initial)>, <Thread(Thread-377 (worker), initial)>, <Thread(Thread-378 (worker), initial)>, <Thread(Thread-379 (worker), initial)>, <Thread(Thread-380 (controllerAssentos), initial)>]
+Thread_4: 15
+Thread_4: 1
+Thread_4: 98
+Thread_4: 197
+Thread_4: 84
+Thread_4: 157
+Thread_4: 102
+Thread_4: 147
+Thread_4: 135
+Thread_4: 144
+Thread_4: 133
+Thread_4: 175
+Thread_4: 99
+Thread_4: 94
+Thread_4: 5
+Thread_4: 178
+Thread_4: 163
+Thread_4: 25
+Thread_4: 93
+Thread_4: 88
+Thread_4: 117
+Thread_4: 173
+Thread_4: 152
+Thread_4: 54
+Thread_4: 21
+Thread_4: 97
+Thread_4: 11
+Thread_4: 40
+Thread_4: 194
+Thread_4: 182
+Thread_4: 131
+Thread_4: 32
+Thread_4: 14
+Thread_4: 65
+Thread_4: 83
+Thread_4: 167
+Thread_4: 165
+Thread_4: 36
+Thread_4: 146
+Thread_4: 191
+Thread_4: 103
+Thread_4: 37
+Thread_4: 55
+Thread_4: 114
+Thread_4: 72
+Thread_4: 90
+Thread_4: 181
+Thread_4: 81
+Thread_4: 16
+Thread_4: 17
+Thread_4: 13
+Thread_4: 120
+Thread_4: 155
+Thread_4: 8
+Thread_4: 128
+Thread_4: 121
+Thread_4: 78
+Thread_4: 23
+Thread_4: 115
+Thread_4: 61
+Thread_4: 127
+Thread_4: 132
+Thread_4: 183
+Thread_4: 30
+Thread_4: 184
+Thread_4: 174
+Thread_4: 129
+Thread_4: 45
+Thread_4: 43
+Thread_4: 29
+Thread_4: 112
+Thread_4: 76
+Thread_4: 4
+Thread_4: 116
+Thread_4: 58
+Thread_4: 122
+Thread_4: 148
+Thread_4: 18
+Thread_4: 168
+Thread_4: 22
+Thread_4: 86
+Thread_4: 150
+Thread_4: 143
+Thread_4: 196
+Thread_4: 80
+Thread_4: 118
+Thread_4: 189
+Thread_4: 190
+Thread_4: 186
+Thread_4: 3
+Thread_4: 91
+Thread_4: 63
+Thread_4: 57
+Thread_4: 142
+Thread_4: 193
+Thread_4: 108
+Thread_4: 53
+Thread_4: 136
+Thread_4: 200
+Thread_4: 104
+Thread_4: 89
+Thread_4: 87
+Thread_4: 35
+Thread_4: 44
+Thread_4: 12
+Thread_4: 188
+Thread_4: 75
+Thread_4: 111
+Thread_4: 159
+Thread_4: 64
+Thread_4: 50
+Thread_4: 172
+Thread_4: 49
+Thread_4: 52
+Thread_4: 69
+Thread_4: 124
+Thread_4: 2
+Thread_4: 134
+Thread_4: 171
+Thread_4: 101
+Thread_4: 7
+Thread_4: 60
+Thread_4: 6
+Thread_4: 85
+Thread_4: 169
+Thread_4: 164
+Thread_4: 138
+Thread_4: 177
+Thread_4: 141
+Thread_4: 48
+Thread_4: 56
+Thread_4: 106
+Thread_4: 39
+Thread_4: 187
+Thread_4: 199
+Thread_4: 198
+Thread_4: 70
+Thread_4: 130
+Thread_4: 145
+Thread_4: 19
+Thread_4: 10
+Thread_4: 66
+Thread_4: 179
+Thread_4: 27
+Thread_4: 100
+Thread_4: 153
+Thread_4: 92
+Thread_4: 154
+Thread_4: 162
+Thread_4: 137
+Thread_4: 67
+Thread_4: 123
+Thread_4: 105
+Thread_4: 156
+Thread_4: 79
+Thread_4: 192
+Thread_4: 28
+Thread_4: 151
+Thread_4: 140
+Thread_4: 113
+Thread_4: 158
+Thread_4: 107
+Thread_4: 166
+Thread_4: 24
+Thread_4: 161
+Thread_4: 109
+Thread_4: 38
+Thread_4: 96
+Thread_4: 26
+Thread_4: 20
+Thread_4: 41
+Thread_4: 176
+Thread_4: 62
+Thread_4: 126
+Thread_4: 82
+Thread_4: 95
+Thread_4: 110
+Thread_4: 34
+Thread_4: 47
+Thread_4: 139
+Thread_4: 42
+Thread_4: 195
+Thread_4: 160
+Thread_4: 170
+Thread_4: 74
+Thread_4: 33
+Thread_4: 185
+Thread_4: 149
+Thread_4: 51
+Thread_4: 31
+Thread_4: 180
+Thread_4: 71
+Thread_4: 9
+Thread_4: 119
+Thread_4: 59
+Thread_4: 125
+Thread_4: 68
+Thread_4: 73
+Thread_4: 46
+Thread_4: 77
+tempo final: 1686519713.2540703
+tempo total: 207.49832963943481
+Acabaram os assentos :(
+tempo final: 1686519713.2551832
+tempo total: 207.49944257736206
+Acabaram os assentos :(
+tempo final: 1686519713.2590048tempo final: 1686519713.25936
+tempo total: 207.50361943244934
+tempo final: 1686519713.2617981
+tempo total: 207.50605750083923
+Acabaram os assentos :(
+tempo total: 207.50326418876648
+Acabaram os assentos :(
+tempo final: 1686519713.2668176
+tempo total: 207.51107692718506
+tempo final: 1686519713.266963
+tempo total: 207.5112223625183
+Acabaram os assentos :(
+tempo final: 1686519713.2689593
+tempo total: 207.51321864128113
+Acabaram os assentos :(
+Acabaram os assentos :(
+tempo final: 1686519713.273299
+tempo total: 207.51755833625793
+Acabaram os assentos :(
+tempo final: 1686519713.2738056
+tempo total: 207.51806497573853
+Acabaram os assentos :(
+Acabaram os assentos :(
+tempo final: 1686519713.2774725
+tempo total: 207.5217318534851
+Acabaram os assentos :(

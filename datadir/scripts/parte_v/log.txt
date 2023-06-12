@@ -1,0 +1,30 @@
+VERSAO A - READ COMMITED
+tempo total para 1 threads: 201.1123399734497
+tempo total para 2 threads: 201.19078731536865
+tempo total para 4 threads: 201.02780270576477
+tempo total para 6 threads: 201.28299641609192
+tempo total para 8 threads: 201.07736229896545
+tempo total para 10 threads: 205.06609630584717
+VERSAO B - READ COMMITED
+tempo total para 1 threads: 214.70020866394043
+tempo total para 2 threads: 211.66071009635925
+tempo total para 4 threads: 211.3507363796234
+tempo total para 6 threads: 211.13061833381653
+tempo total para 8 threads: 211.03234958648682
+tempo total para 10 threads: 211.5730094909668
+VERSAO A - SERIALIZABLE
+tempo total para 1 threads: 208.66874647140503
+tempo total para 2 threads: 209.66748785972595
+tempo total para 4 threads: 211.61320161819458
+tempo total para 6 threads: 209.57569432258606
+tempo total para 8 threads: 207.5848526954651
+tempo total para 10 threads: 207.5217318534851
+VERSAO B - SERIALIZABLE
+tempo total para 1 threads: 214.53381752967834
+tempo total para 2 threads: 215.8577606678009
+tempo total para 4 threads: 218.82598304748535
+tempo total para 6 threads: 216.5841281414032
+tempo total para 8 threads: 214.56594347953796
+tempo total para 10 threads: 214.35832357406616
+
+

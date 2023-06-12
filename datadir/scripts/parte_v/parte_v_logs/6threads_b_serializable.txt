@@ -1,0 +1,221 @@
+versao a ou b?b
+numero de agentes [1,2,4,6,8,10]6
+[<Thread(Thread-411 (worker), initial)>, <Thread(Thread-412 (worker), initial)>, <Thread(Thread-413 (worker), initial)>, <Thread(Thread-414 (worker), initial)>, <Thread(Thread-415 (worker), initial)>, <Thread(Thread-416 (worker), initial)>, <Thread(Thread-417 (controllerAssentos), initial)>]
+Thread_3: 57
+Thread_3: 63
+Thread_3: 71
+Thread_3: 111
+Thread_3: 26
+Thread_3: 168
+Thread_3: 48
+Thread_3: 123
+Thread_3: 175
+Thread_3: 162
+Thread_3: 176
+Thread_3: 85
+Thread_3: 118
+Thread_3: 133
+Thread_3: 158
+Thread_3: 102
+Thread_3: 136
+Thread_3: 27
+Thread_3: 14
+Thread_3: 72
+Thread_3: 108
+Thread_3: 190
+Thread_3: 156
+Thread_3: 87
+Thread_3: 10
+Thread_3: 155
+Thread_3: 8
+Thread_3: 91
+Thread_3: 177
+Thread_3: 161
+Thread_3: 5
+Thread_3: 15
+Thread_3: 144
+Thread_3: 194
+Thread_3: 171
+Thread_3: 103
+Thread_3: 25
+Thread_3: 46
+Thread_3: 148
+Thread_3: 70
+Thread_3: 159
+Thread_3: 7
+Thread_3: 55
+Thread_3: 183
+Thread_3: 38
+Thread_3: 16
+Thread_3: 131
+Thread_3: 79
+Thread_3: 69
+Thread_3: 100
+Thread_3: 150
+Thread_3: 113
+Thread_3: 54
+Thread_3: 134
+Thread_3: 12
+Thread_3: 18
+Thread_3: 6
+Thread_3: 132
+Thread_3: 117
+Thread_3: 180
+Thread_3: 80
+Thread_3: 66
+Thread_3: 37
+Thread_3: 62
+Thread_3: 184
+Thread_3: 187
+Thread_3: 167
+Thread_3: 68
+Thread_3: 164
+Thread_3: 41
+Thread_3: 140
+Thread_3: 92
+Thread_3: 84
+Thread_3: 135
+Thread_3: 143
+Thread_3: 96
+Thread_3: 121
+Thread_3: 142
+Thread_3: 128
+Thread_3: 93
+Thread_3: 95
+Thread_3: 51
+Thread_3: 22
+Thread_3: 65
+Thread_3: 179
+Thread_3: 99
+Thread_3: 163
+Thread_3: 90
+Thread_3: 199
+Thread_3: 42
+Thread_3: 44
+Thread_3: 116
+Thread_3: 127
+Thread_3: 34
+Thread_3: 40
+Thread_3: 94
+Thread_3: 109
+Thread_3: 21
+Thread_3: 185
+Thread_3: 192
+Thread_3: 182
+Thread_3: 189
+Thread_3: 186
+Thread_3: 32
+Thread_3: 197
+Thread_3: 82
+Thread_3: 138
+Thread_3: 64
+Thread_3: 24
+Thread_3: 17
+Thread_3: 178
+Thread_3: 139
+Thread_3: 160
+Thread_3: 59
+Thread_3: 52
+Thread_3: 126
+Thread_3: 130
+Thread_3: 112
+Thread_3: 195
+Thread_3: 151
+Thread_3: 149
+Thread_3: 174
+Thread_3: 74
+Thread_3: 28
+Thread_3: 154
+Thread_3: 67
+Thread_3: 188
+Thread_3: 172
+Thread_3: 29
+Thread_3: 45
+Thread_3: 53
+Thread_3: 39
+Thread_3: 23
+Thread_3: 60
+Thread_3: 105
+Thread_3: 110
+Thread_3: 61
+Thread_3: 76
+Thread_3: 122
+Thread_3: 50
+Thread_3: 11
+Thread_3: 145
+Thread_3: 104
+Thread_3: 2
+Thread_3: 78
+Thread_3: 196
+Thread_3: 169
+Thread_3: 88
+Thread_3: 152
+Thread_3: 181
+Thread_3: 146
+Thread_3: 114
+Thread_3: 86
+Thread_3: 36
+Thread_3: 137
+Thread_3: 35
+Thread_3: 4
+Thread_3: 119
+Thread_3: 125
+Thread_3: 115
+Thread_3: 19
+Thread_3: 129
+Thread_3: 193
+Thread_3: 166
+Thread_3: 141
+Thread_3: 75
+Thread_3: 97
+Thread_3: 58
+Thread_3: 9
+Thread_3: 73
+Thread_3: 81
+Thread_3: 106
+Thread_3: 33
+Thread_3: 77
+Thread_3: 89
+Thread_3: 173
+Thread_3: 98
+Thread_3: 47
+Thread_3: 120
+Thread_3: 147
+Thread_3: 107
+Thread_3: 31
+Thread_3: 13
+Thread_3: 200
+Thread_3: 124
+Thread_3: 191
+Thread_3: 165
+Thread_3: 153
+Thread_3: 170
+Thread_3: 83
+Thread_3: 43
+Thread_3: 1
+Thread_3: 198
+Thread_3: 101
+Thread_3: 20
+Thread_3: 30
+Thread_3: 157
+Thread_3: 56
+Thread_3: 3
+Thread_3: 49
+tempo final: 1686524801.6817074
+tempo total: 216.57816243171692
+tempo final: 1686524801.6817584
+tempo total: 216.57821345329285
+Acabaram os assentos :(
+tempo final: 1686524801.6830301Acabaram os assentos :(
+
+tempo total: 216.57948517799377
+Acabaram os assentos :(
+tempo final: 1686524801.683768
+tempo total: 216.5802230834961
+Acabaram os assentos :(
+tempo final: 1686524801.685147
+tempo total: 216.58160209655762
+Acabaram os assentos :(
+tempo final: 1686524801.687673
+tempo total: 216.5841281414032
+Acabaram os assentos :(

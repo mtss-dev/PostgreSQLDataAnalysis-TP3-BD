@@ -1,0 +1,221 @@
+versao a ou b?a
+numero de agentes [1,2,4,6,8,10]6
+[<Thread(Thread-354 (worker), initial)>, <Thread(Thread-355 (worker), initial)>, <Thread(Thread-356 (worker), initial)>, <Thread(Thread-357 (worker), initial)>, <Thread(Thread-358 (worker), initial)>, <Thread(Thread-359 (worker), initial)>, <Thread(Thread-360 (controllerAssentos), initial)>]
+Thread_5: 39
+Thread_5: 93
+Thread_5: 25
+Thread_5: 54
+Thread_5: 180
+Thread_5: 95
+Thread_5: 2
+Thread_5: 26
+Thread_5: 27
+Thread_5: 158
+Thread_5: 173
+Thread_5: 60
+Thread_5: 8
+Thread_5: 177
+Thread_5: 22
+Thread_5: 121
+Thread_5: 13
+Thread_5: 75
+Thread_5: 165
+Thread_5: 42
+Thread_5: 162
+Thread_5: 101
+Thread_5: 28
+Thread_5: 1
+Thread_5: 55
+Thread_5: 191
+Thread_5: 40
+Thread_5: 163
+Thread_5: 128
+Thread_5: 152
+Thread_5: 135
+Thread_5: 36
+Thread_5: 114
+Thread_5: 104
+Thread_5: 188
+Thread_5: 175
+Thread_5: 59
+Thread_5: 119
+Thread_5: 38
+Thread_5: 9
+Thread_5: 17
+Thread_5: 113
+Thread_5: 200
+Thread_5: 108
+Thread_5: 65
+Thread_5: 164
+Thread_5: 105
+Thread_5: 41
+Thread_5: 126
+Thread_5: 145
+Thread_5: 182
+Thread_5: 5
+Thread_5: 129
+Thread_5: 127
+Thread_5: 63
+Thread_5: 51
+Thread_5: 167
+Thread_5: 4
+Thread_5: 153
+Thread_5: 98
+Thread_5: 97
+Thread_5: 178
+Thread_5: 91
+Thread_5: 112
+Thread_5: 10
+Thread_5: 6
+Thread_5: 19
+Thread_5: 155
+Thread_5: 120
+Thread_5: 24
+Thread_5: 110
+Thread_5: 194
+Thread_5: 176
+Thread_5: 3
+Thread_5: 89
+Thread_5: 62
+Thread_5: 99
+Thread_5: 186
+Thread_5: 70
+Thread_5: 107
+Thread_5: 81
+Thread_5: 21
+Thread_5: 154
+Thread_5: 117
+Thread_5: 50
+Thread_5: 87
+Thread_5: 69
+Thread_5: 23
+Thread_5: 80
+Thread_5: 196
+Thread_5: 12
+Thread_5: 184
+Thread_5: 20
+Thread_5: 84
+Thread_5: 34
+Thread_5: 169
+Thread_5: 53
+Thread_5: 192
+Thread_5: 136
+Thread_5: 183
+Thread_5: 14
+Thread_5: 90
+Thread_5: 83
+Thread_5: 189
+Thread_5: 106
+Thread_5: 77
+Thread_5: 138
+Thread_5: 18
+Thread_5: 58
+Thread_5: 190
+Thread_5: 118
+Thread_5: 116
+Thread_5: 43
+Thread_5: 166
+Thread_5: 170
+Thread_5: 131
+Thread_5: 102
+Thread_5: 146
+Thread_5: 133
+Thread_5: 159
+Thread_5: 16
+Thread_5: 195
+Thread_5: 67
+Thread_5: 11
+Thread_5: 143
+Thread_5: 144
+Thread_5: 199
+Thread_5: 92
+Thread_5: 74
+Thread_5: 88
+Thread_5: 137
+Thread_5: 29
+Thread_5: 115
+Thread_5: 82
+Thread_5: 33
+Thread_5: 132
+Thread_5: 111
+Thread_5: 150
+Thread_5: 64
+Thread_5: 172
+Thread_5: 72
+Thread_5: 47
+Thread_5: 151
+Thread_5: 71
+Thread_5: 156
+Thread_5: 109
+Thread_5: 122
+Thread_5: 179
+Thread_5: 94
+Thread_5: 86
+Thread_5: 181
+Thread_5: 57
+Thread_5: 46
+Thread_5: 7
+Thread_5: 141
+Thread_5: 193
+Thread_5: 125
+Thread_5: 134
+Thread_5: 45
+Thread_5: 140
+Thread_5: 124
+Thread_5: 73
+Thread_5: 68
+Thread_5: 139
+Thread_5: 44
+Thread_5: 130
+Thread_5: 15
+Thread_5: 96
+Thread_5: 76
+Thread_5: 48
+Thread_5: 187
+Thread_5: 56
+Thread_5: 30
+Thread_5: 31
+Thread_5: 100
+Thread_5: 197
+Thread_5: 61
+Thread_5: 148
+Thread_5: 171
+Thread_5: 123
+Thread_5: 142
+Thread_5: 198
+Thread_5: 85
+Thread_5: 37
+Thread_5: 161
+Thread_5: 78
+Thread_5: 66
+Thread_5: 79
+Thread_5: 185
+Thread_5: 32
+Thread_5: 49
+Thread_5: 174
+Thread_5: 157
+Thread_5: 168
+Thread_5: 149
+Thread_5: 52
+Thread_5: 160
+Thread_5: 35
+Thread_5: 103
+Thread_5: 147
+tempo final: 1686519114.9244306
+tempo total: 209.5577154159546
+tempo final: 1686519114.9255385
+tempo total: 209.55882334709167
+tempo final: 1686519114.9258885
+tempo total: 209.5591733455658
+Acabaram os assentos :(
+Acabaram os assentos :(
+Acabaram os assentos :(
+tempo final: 1686519114.932889
+tempo total: 209.56617379188538
+Acabaram os assentos :(
+tempo final: 1686519114.9418225
+tempo total: 209.5751073360443
+Acabaram os assentos :(
+tempo final: 1686519114.9424095
+tempo total: 209.57569432258606
+Acabaram os assentos :(

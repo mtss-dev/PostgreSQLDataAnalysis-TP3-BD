@@ -1,0 +1,229 @@
+numero de agentes [1,2,4,6,8,10]8
+[<Thread(Thread-391 (worker), initial)>, <Thread(Thread-392 (worker), initial)>, <Thread(Thread-393 (worker), initial)>, <Thread(Thread-394 (worker), initial)>, <Thread(Thread-395 (worker), initial)>, <Thread(Thread-396 (worker), initial)>, <Thread(Thread-397 (worker), initial)>, <Thread(Thread-398 (worker), initial)>, <Thread(Thread-399 (controllerAssentos), initial)>]
+Thread_2: 25
+Thread_2: 41
+Thread_2: 65
+Thread_2: 99
+Thread_2: 110
+Thread_2: 68
+Thread_2: 8
+Thread_2: 196
+Thread_2: 96
+Thread_2: 192
+Thread_2: 140
+Thread_2: 129
+Thread_2: 77
+Thread_2: 55
+Thread_2: 79
+Thread_2: 195
+Thread_2: 5
+Thread_2: 38
+Thread_2: 194
+Thread_2: 180
+Thread_2: 16
+Thread_2: 86
+Thread_2: 150
+Thread_2: 40
+Thread_2: 58
+Thread_2: 181
+Thread_2: 151
+Thread_2: 120
+Thread_2: 59
+Thread_2: 82
+Thread_2: 125
+Thread_2: 69
+Thread_2: 72
+Thread_2: 89
+Thread_2: 19
+Thread_2: 36
+Thread_2: 24
+Thread_2: 71
+Thread_2: 88
+Thread_2: 179
+Thread_2: 101
+Thread_2: 7
+Thread_2: 176
+Thread_2: 13
+Thread_2: 4
+Thread_2: 182
+Thread_2: 83
+Thread_2: 145
+Thread_2: 124
+Thread_2: 164
+Thread_2: 46
+Thread_2: 165
+Thread_2: 160
+Thread_2: 6
+Thread_2: 117
+Thread_2: 115
+Thread_2: 113
+Thread_2: 155
+Thread_2: 44
+Thread_2: 191
+Thread_2: 2
+Thread_2: 80
+Thread_2: 43
+Thread_2: 42
+Thread_2: 167
+Thread_2: 18
+Thread_2: 143
+Thread_2: 154
+Thread_2: 109
+Thread_2: 20
+Thread_2: 104
+Thread_2: 64
+Thread_2: 37
+Thread_2: 60
+Thread_2: 70
+Thread_2: 146
+Thread_2: 54
+Thread_2: 123
+Thread_2: 47
+Thread_2: 135
+Thread_2: 184
+Thread_2: 153
+Thread_2: 170
+Thread_2: 17
+Thread_2: 130
+Thread_2: 114
+Thread_2: 12
+Thread_2: 190
+Thread_2: 48
+Thread_2: 52
+Thread_2: 23
+Thread_2: 29
+Thread_2: 81
+Thread_2: 34
+Thread_2: 76
+Thread_2: 188
+Thread_2: 161
+Thread_2: 35
+Thread_2: 102
+Thread_2: 32
+Thread_2: 175
+Thread_2: 174
+Thread_2: 67
+Thread_2: 166
+Thread_2: 45
+Thread_2: 28
+Thread_2: 108
+Thread_2: 149
+Thread_2: 162
+Thread_2: 199
+Thread_2: 147
+Thread_2: 49
+Thread_2: 136
+Thread_2: 169
+Thread_2: 156
+Thread_2: 187
+Thread_2: 105
+Thread_2: 189
+Thread_2: 185
+Thread_2: 31
+Thread_2: 127
+Thread_2: 87
+Thread_2: 178
+Thread_2: 39
+Thread_2: 118
+Thread_2: 61
+Thread_2: 119
+Thread_2: 137
+Thread_2: 112
+Thread_2: 172
+Thread_2: 50
+Thread_2: 78
+Thread_2: 142
+Thread_2: 3
+Thread_2: 159
+Thread_2: 198
+Thread_2: 91
+Thread_2: 15
+Thread_2: 126
+Thread_2: 168
+Thread_2: 121
+Thread_2: 33
+Thread_2: 173
+Thread_2: 139
+Thread_2: 63
+Thread_2: 116
+Thread_2: 157
+Thread_2: 128
+Thread_2: 22
+Thread_2: 90
+Thread_2: 111
+Thread_2: 26
+Thread_2: 98
+Thread_2: 152
+Thread_2: 186
+Thread_2: 94
+Thread_2: 107
+Thread_2: 106
+Thread_2: 85
+Thread_2: 57
+Thread_2: 27
+Thread_2: 62
+Thread_2: 11
+Thread_2: 84
+Thread_2: 51
+Thread_2: 133
+Thread_2: 122
+Thread_2: 30
+Thread_2: 144
+Thread_2: 132
+Thread_2: 66
+Thread_2: 93
+Thread_2: 73
+Thread_2: 141
+Thread_2: 95
+Thread_2: 100
+Thread_2: 75
+Thread_2: 177
+Thread_2: 1
+Thread_2: 158
+Thread_2: 56
+Thread_2: 10
+Thread_2: 97
+Thread_2: 171
+Thread_2: 9
+Thread_2: 134
+Thread_2: 163
+Thread_2: 200
+Thread_2: 53
+Thread_2: 183
+Thread_2: 14
+Thread_2: 138
+Thread_2: 148
+Thread_2: 103
+Thread_2: 193
+Thread_2: 74
+Thread_2: 197
+Thread_2: 131
+Thread_2: 21
+Thread_2: 92
+tempo final: 1686524104.7588477
+tempo total: 214.5387728214264
+Acabaram os assentos :(
+tempo final: 1686524104.759947
+tempo total: 214.53987216949463
+Acabaram os assentos :(
+tempo final: 1686524104.761855
+tempo total: 214.5417799949646
+Acabaram os assentos :(
+tempo final: 1686524104.7651558
+tempo total: 214.54508090019226
+Acabaram os assentos :(
+tempo final: 1686524104.7713377
+tempo total: 214.55126285552979
+Acabaram os assentos :(
+tempo final: 1686524104.7750316
+tempo total: 214.5549566745758
+Acabaram os assentos :(
+tempo final: 1686524104.7758412
+tempo total: 214.55576634407043
+Acabaram os assentos :(
+tempo final: 1686524104.7829838
+tempo total: 214.56290888786316
+Acabaram os assentos :(
+tempo final: 1686524104.7860184
+tempo total: 214.56594347953796
+Acabaram os assentos :(
