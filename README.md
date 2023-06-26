@@ -14,7 +14,7 @@
 
 ## Nota
 
-Obtemos a nota 10 nesse trabalho.
+Obtemos nota 10 neste trabalho.
 
 ## Como executar
 
