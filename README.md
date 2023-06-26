@@ -70,3 +70,7 @@ Entrar no postgresql dentro do container
 ```bash
 docker exec -it tp3 psql -h localhost -p 5432 -U postgres -W
 ```
+
+## Nota
+
+Obtemos a nota 10 nesse trabalho.
