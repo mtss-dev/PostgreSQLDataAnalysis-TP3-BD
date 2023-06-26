@@ -12,6 +12,10 @@
 
 - Este trabalho tem como objetivo responder as questões propostas no Trabalho Prático 3 da disciplina de Banco de Dados 1, cujo documento está disponível [aqui](https://docs.google.com/document/d/17Uobq1brb6TbbCr64DWCEWG9J-LAGpgXuOC3BVpczx4/edit#heading=h.gjdgxs).  Foram utilizados códigos escritos em Python e SQL, e os dados foram armazenados em um banco de dados PostgreSQL. O trabalho foi realizado em um container Docker, e os dados foram persistidos em um volume para evitar perdas ao reiniciar o container. Além disso, as partes relacionadas à codificação foram executadas em scripts .py, separados do notebook principal, a fim de manter a organização e evitar poluição visual. O notebook foi utilizado para visualização dos dados e para responder às questões de análise propostas.
 
+## Nota
+
+Obtemos a nota 10 nesse trabalho.
+
 ## Como executar
 
 Criar a imagem
@@ -71,6 +75,4 @@ Entrar no postgresql dentro do container
 docker exec -it tp3 psql -h localhost -p 5432 -U postgres -W
 ```
 
-## Nota
 
-Obtemos a nota 10 nesse trabalho.
